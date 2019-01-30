@@ -1,0 +1,5 @@
+.data
+	%1	:=	30
+.text
+	neg %1, %3
+	write %3
